@@ -1,4 +1,4 @@
 :repeat "it's not test"
-Wiêcej linijek
+Bifi zmienia linijka
 musi byæ
-dodanych.
+Dlaaaaczego konflikt?
