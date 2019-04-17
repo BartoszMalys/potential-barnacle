@@ -1,4 +1,5 @@
 :repeat "it's not test"
 Bifi zmienia linijka
 musi byæ
-Dlaaaaczego konflikt?
+£¹czymy si³y?
+
