@@ -1,4 +1,4 @@
 :repeat "it's not test"
-Wiêcej linijek
+Kraczka zmienia linijke
 musi byæ
-dodanych.
+£¹czymy si³y?
